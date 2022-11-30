@@ -1,2 +1,2 @@
-# my_project
+# Git_Course
 for learnin
